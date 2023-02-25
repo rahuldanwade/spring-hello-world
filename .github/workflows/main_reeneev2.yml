@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'reeneev2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE7CD588F9064928898CC0D711117CFF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_276B74B19F184177BAA0A83DF0FA6168 }}
           package: '*.jar'
